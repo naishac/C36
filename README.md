@@ -1,2 +1,2 @@
-# C36
-C36
+# synchronousBallMovement
+Ball moving synchronously
